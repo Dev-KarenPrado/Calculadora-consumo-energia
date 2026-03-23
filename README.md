@@ -18,5 +18,21 @@ Projeto desenvolvido para estimar o consumo mensal de aparelhos eletrodoméstico
 ## 🧮 Fórmula utilizada
 $ConsumoMensal = (Potência \times Horas \times 30) / 1000$
 
+## 📌 Exemplo de uso
+
+Aparelho: Chuveiro  
+Potência: 5500W  
+Uso diário: 1 hora  
+Valor do kWh: R$ 0,90  
+
+🔎 Resultado:
+Consumo mensal: 165 kWh  
+Custo estimado: R$ 148,50
+
+
+## 📈 Possíveis melhorias futuras
+- Suporte a múltiplos aparelhos
+- Interface gráfica
+- Histórico de consumo
 ---
-*Desenvolvido como parte do programa de iniciação em tecnologia.*
+*Desenvolvido como parte do programa de iniciação em tecnologia para ajudar usuários a entender o impacto do uso de aparelhos elétricos na conta de luz, permitindo maior controle financeiro e consumo consciente.*
