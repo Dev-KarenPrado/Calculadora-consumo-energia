@@ -1,7 +1,10 @@
-# ⚡ Calculadora de Consumo Elétrico
+# ⚡ Calculadora de Consumo Elétrico Inteligente
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Energia](https://img.shields.io/badge/Eficiência-Energética-yellow?style=for-the-badge&logo=lightning&logoColor=white)
+
+> 💡 **Dica:** Economizar energia começa com o conhecimento do consumo!
 
 Projeto desenvolvido para estimar o consumo mensal de aparelhos eletrodomésticos e calcular o custo estimado em Reais.
 
