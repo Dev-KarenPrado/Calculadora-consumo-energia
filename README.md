@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Custo](https://img.shields.io/badge/Custo-Estimado-2ea44f?style=for-the-badge&logo=google-pay&logoColor=white)
 ![Eletricidade](https://img.shields.io/badge/Eletricidade-⚡-0077b6?style=for-the-badge)
+![Custo](https://img.shields.io/badge/Custo-Estimado-2ea44f?style=for-the-badge&logo=google-pay&logoColor=white)
 
 > 💡 **Dica:** Economizar energia começa com o conhecimento do consumo!
 
